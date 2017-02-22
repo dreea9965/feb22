@@ -1,0 +1,38 @@
+.button {
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+
+.searchbox {
+  padding: 15px;
+  background: url("google_mic.png")
+  width: 500px;
+  height: 50px;
+  
+
+
+/*}
+
+form.searchbox {
+  background:url("google_mic.png");
+  padding-left:15px;
+  width: 300px;
+  height: 50px;
+  display: block;
+
+}
+form.searchbox input.text {
+  border:none;
+  border-top:1px
+  solid #999;
+  border-bottom:1px solid #999;
+  width: 300px;
+  height:20px;
+  line-height:25px;
+  padding:0 5px; }*/
